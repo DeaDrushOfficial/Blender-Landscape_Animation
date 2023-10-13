@@ -10,7 +10,7 @@
 
 3.Rendering: Cycles, OptiX, post processing and compositing
 
-Also, if necessary, here is a link to a rendered image from the scene: 
+Also, if necessary, here is a link to a rendered image from the scene: https://github.com/DeaDrushOfficial/Blender-Landscape_Animation/blob/main/Main%20Project/Final%20Render%20compositing.png
 
 ## Installation and launch
 
